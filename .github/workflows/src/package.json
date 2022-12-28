@@ -2,7 +2,7 @@
   "name": "ece-userapi",
   "version": "1.0.0",
   "description": "User API web application",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "mocha test/*.js"
